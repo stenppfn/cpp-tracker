@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script>window.VITE_API_URL="/api"; window.VITE_STORAGE_MODE="api";</script>
+  <title>C++知识点追踪器</title>
+  <script type="module" crossorigin src="/assets/index-DkwiULIK.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-CXaRk7Si.css">
+</head>
+
+<body>
+  <div id="root"></div>
+</body>
+
+</html>
